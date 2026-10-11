@@ -1,0 +1,6 @@
+{
+  "name": "Fatura Ürün ve Fiyat Çıkarıcı",
+  "description": "PDF faturalardan ürün kalemlerini ayıklayan, düzenleme imkanı sunan, Excel aktarımı ve Mizan stok takibi sağlayan yüksek performanslı web uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
